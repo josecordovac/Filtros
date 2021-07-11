@@ -1,4 +1,4 @@
-# Filtrar array como Lista
+# Array y Listas
 
 Uso de listas en Python
 
@@ -38,8 +38,6 @@ python main.py
 ![alt text](https://github.com/josecordovac/Filtros/blob/main/ejecucion.png?raw=true)
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Anaconda, Jupyter Notebook y Python](https://www.anaconda.com/products/individual)
 
